@@ -38,5 +38,5 @@ This project provides an interactive Power BI dashboard for analyzing sales. The
 
 
 ## Example Dashboard
-![Sample Dashboard]([path/to/sample_dashboard.png](https://github.com/user-attachments/assets/b1a84f2e-3aa2-461d-b467-07d9c910af6f))
+![Sample Dashboard](https://github.com/user-attachments/assets/b1a84f2e-3aa2-461d-b467-07d9c910af6f)
 

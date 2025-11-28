@@ -1,7 +1,7 @@
 # Business Sales Dashboard - Power BI
 
 ## Overview
-This project provides an interactive Power BI dashboard for analyzing internet sales. The dashboard offers insights into customer purchases, product sales, and sales performance against budget, enabling data-driven decision-making for sales teams.
+This project provides an interactive Power BI dashboard for analyzing sales. The dashboard offers insights into customer purchases, product sales, and sales performance against budget, enabling data-driven decision-making for sales teams.
 
 ## Features
 - **Dashboard Overview**: High-level summary of internet sales.
